@@ -2,7 +2,7 @@ body {
 
     color: white;
     background-color: black;
-    margin: 0px;
+    margin:0px;
 
 }
 header {
@@ -10,7 +10,6 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228);
-
 }
 
 section {
@@ -20,7 +19,7 @@ section {
     display: flex;
     justify-content: center;
 }
-
 .chamada-texto {
     margin-right: 5%;
+
 }

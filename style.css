@@ -1,6 +1,6 @@
 body {
 
-    color: white;
+    color: RGB 74, 35, 90     ;
     background-color: rgb(175, 122, 197 );
     margin:0px;
 
@@ -22,4 +22,24 @@ section {
 .chamada-texto {
     margin-right: 5%;
 
+}
+
+section{
+    background: rgb (187, 143, 206);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
